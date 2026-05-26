@@ -1,7 +1,13 @@
-# ⚡ ADITI TINKER // Security Researcher & Pentester
+# ⚡ ADITI TINKER // SECURITY RESEARCHER & PENTESTER
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=System.init(Aditi+Tinker);%5B+%5D+Security+Researcher+%26+Pentester;%5B+%5D+Bug+Bounty+Hunter;%5B+%5D+Focused+on+Recon+Automation" alt="Typing SVG" />
+  <img src="banner.png" alt="Cybersecurity Banner" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=System.init(Aditi+Tinker);%5B+%5D+Security+Researcher+%26+Pentester;%5B+%5D+Bug+Bounty+Hunter;%5B+%5D+Focused+on+Recon+Automation" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -16,49 +22,36 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Cyber-aditii?label=Followers&style=flat-square&color=00f0ff&logo=github" alt="GitHub Followers" />
-  <img src="https://komarev.com/ghpvc/?username=Cyber-aditii&color=00f0ff&style=flat-square&label=Profile%20Views" alt="Profile Views" />
-</p>
-
 ---
 
-## 🕵️ About Me
+## 🕵️ Terminal Session: About Me
 
-I am an independent **Cybersecurity Researcher** and **Bug Bounty Hunter** specializing in web application penetration testing, automated recon, and source code auditing. I enjoy building automation tools to simplify vulnerability discovery and filter evasion, and bridging the gap between development and offensive security.
+<details open>
+<summary><b>📂 System Diagnostics (Click to collapse/expand)</b></summary>
+<br/>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💻 System Diagnostics</h3>
-      
+I am an independent **Cybersecurity Researcher** and **Bug Bounty Hunter** specializing in web application penetration testing, automated recon, and source code auditing. I build automation tools to simplify vulnerability discovery, bypass web application firewalls (WAFs), and script custom PoCs.
+
 ```python
 class SecurityResearcher:
     def __init__(self):
-        self.name = "Aditi Tinker"
-        self.alias = "Cyber-aditii"
-        self.location = "Jaipur, India"
+        self.name       = "Aditi Tinker"
+        self.alias      = "Cyber-aditii"
+        self.location   = "Jaipur, India"
+        self.education  = "BCA @ Maharani College (SGPA: 7.4)"
+        
         self.focus_areas = [
-            "Web Security / OWASP Top 10",
-            "Recon Automation & Scripting",
-            "WAF Bypass & Filter Evasion"
+            "Web Security / OWASP Top 10 Assessment",
+            "Recon Automation & Vulnerability Scripting",
+            "PoC Exploit Development & Source Code Review",
+            "WAF Bypass & Filter Evasion Techniques"
         ]
 
-    def current_activity(self):
-        return "Developing tools & hunting bugs 🛡️"
+    def current_status(self):
+        return "Hunting bugs 🔍 | Developing automated tools 🛠️"
 ```
-    </td>
-    <td width="50%" valign="top">
-      <h3>📜 Credentials & Background</h3>
-      <ul>
-        <li>🛡️ <b>Independent Bug Bounty Hunter</b> auditing web apps and discovering edge-case flaws.</li>
-        <li>🎓 Pursuing <b>BCA</b> at Maharani College, Jaipur with a <b>SGPA of 7.4</b>.</li>
-        <li>🎓 Completed a <b>6-Month Diploma in Ethical Hacking</b> from Samyak Coaching.</li>
-        <li>🚀 Certified via <b>NVIDIA Deep Learning Institute (DLI)</b>.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+
+</details>
 
 ---
 
@@ -67,27 +60,25 @@ class SecurityResearcher:
 ### ⚔️ Cybersecurity Skills
 <table>
   <tr>
-    <td><b>Penetration Testing</b></td>
-    <td><img src="https://geps.dev/progress/90?dangerColor=bd93f9&warningColor=00f0ff&successColor=50fa7b" alt="90%" /></td>
-    <td><b>OWASP Top 10</b></td>
-    <td><img src="https://geps.dev/progress/88?dangerColor=bd93f9&warningColor=00f0ff&successColor=50fa7b" alt="88%" /></td>
+    <td width="50%"><b>Penetration Testing</b></td>
+    <td width="50%"><img src="https://geps.dev/progress/90?dangerColor=bd93f9&warningColor=00f0ff&successColor=50fa7b" alt="90%" /></td>
   </tr>
   <tr>
     <td><b>Recon Automation</b></td>
     <td><img src="https://geps.dev/progress/92?dangerColor=bd93f9&warningColor=00f0ff&successColor=50fa7b" alt="92%" /></td>
-    <td><b>Web App Security</b></td>
-    <td><img src="https://geps.dev/progress/87?dangerColor=bd93f9&warningColor=00f0ff&successColor=50fa7b" alt="87%" /></td>
+  </tr>
+  <tr>
+    <td><b>OWASP Top 10</b></td>
+    <td><img src="https://geps.dev/progress/88?dangerColor=bd93f9&warningColor=00f0ff&successColor=50fa7b" alt="88%" /></td>
   </tr>
   <tr>
     <td><b>Bug Bounty Hunting</b></td>
     <td><img src="https://geps.dev/progress/95?dangerColor=bd93f9&warningColor=00f0ff&successColor=50fa7b" alt="95%" /></td>
-    <td><b>Network Security</b></td>
-    <td><img src="https://geps.dev/progress/85?dangerColor=bd93f9&warningColor=00f0ff&successColor=50fa7b" alt="85%" /></td>
   </tr>
 </table>
 
-### 🧰 Languages, Frameworks & Core Tools
-<p>
+### 🧰 Tools & Technologies
+<p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-E8590C?style=for-the-badge&logo=portswigger&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -104,20 +95,29 @@ class SecurityResearcher:
 
 ---
 
-## 📂 Featured Projects
+## 📂 Highlighted Security Repositories
 
-### 🚀 [WraithXSS](https://github.com/Cyber-aditii/WraithXSS)
-An advanced automated XSS scanner and filter evasion framework. Designed to run system diagnostics, check target hosts, detect parameters, test bypass vectors, and automate payload delivery with high-performance reporting.
-- **Languages:** Python, Rich
-- **Key Features:** Colorized interactive interface, Custom Payloads, Bypass logic, Python 3.13 Ready.
+### ⚡ [WraithXSS](https://github.com/Cyber-aditii/WraithXSS)
+> An advanced automated XSS scanner and filter evasion framework. Designed to run system diagnostics, check target hosts, detect parameters, test bypass vectors, and automate payload delivery with high-performance reporting.
+* **Languages:** Python, Rich
+* **Key Features:** Colorized interactive interface, Custom Payloads, Bypass logic, Python 3.13 Ready.
+
+### 🛡️ [CVE-2025-55184-POC-Expolit](https://github.com/Cyber-aditii/CVE-2025-55184-POC-Expolit)
+> Proof of Concept Exploit development for vulnerability CVE-2025-55184. Implements scanning, target identification, and automated verification of vulnerability status.
+* **Languages:** Python, Bash
+* **Key Features:** Automated PoC script, modular verification, requirements and environments included.
 
 ### 🌐 [aditi-portfolio](https://github.com/Cyber-aditii/aditi-portfolio)
-My personal interactive portfolio website demonstrating cybersecurity skills, projects, and certifications.
-- **Tech Stack:** React, Vite, Tailwind CSS, Vercel
+> My personal interactive portfolio website demonstrating cybersecurity skills, projects, and certifications.
+* **Tech Stack:** React, Vite, Tailwind CSS, Vercel
 
 ---
 
-## 📈 Git Telemetry & Metrics
+## 📈 Git Telemetry & Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Cyber-aditii&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Cyber-aditii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
