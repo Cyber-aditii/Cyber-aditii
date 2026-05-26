@@ -1,12 +1,23 @@
-# ⚡ CYBER-ADITII // Cybersecurity Researcher & Bug Bounty Hunter
+# ⚡ ADITI TINKER // Security Researcher & Pentester
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=System.init(Aditi+Tinker);%5B+%5D+Securing+the+Digital+Frontier;%5B+%5D+Bug+Bounty+Hunter+%26+Pentester;%5B+%5D+NVIDIA+DLI+Certified" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=System.init(Aditi+Tinker);%5B+%5D+Security+Researcher+%26+Pentester;%5B+%5D+Bug+Bounty+Hunter;%5B+%5D+Focused+on+Recon+Automation" alt="Typing SVG" />
 </div>
 
 <p align="center">
+  <a href="https://linkedin.com/in/aditi-tinker-8a0854367" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5" alt="LinkedIn" />
+  </a>
+  <a href="mailto:adititinker88@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-purple?style=for-the-badge&logo=gmail&logoColor=white&color=D44638" alt="Email" />
+  </a>
+  <a href="https://aditi-portfolio-gamma-eight.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View_Website-cyan?style=for-the-badge&logo=vercel&logoColor=white&color=00F0FF" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/github/followers/Cyber-aditii?label=Followers&style=flat-square&color=00f0ff&logo=github" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/directory-file-count/Cyber-aditii/aditi-portfolio?label=Portfolio%20Files&style=flat-square&color=bd93f9" alt="Portfolio Files" />
   <img src="https://komarev.com/ghpvc/?username=Cyber-aditii&color=00f0ff&style=flat-square&label=Profile%20Views" alt="Profile Views" />
 </p>
 
@@ -14,36 +25,36 @@
 
 ## 🕵️ About Me
 
+I am an independent **Cybersecurity Researcher** and **Bug Bounty Hunter** specializing in web application penetration testing, automated recon, and source code auditing. I enjoy building automation tools to simplify vulnerability discovery and filter evasion, and bridging the gap between development and offensive security.
+
 <table width="100%">
   <tr>
-    <td width="55%" valign="top">
+    <td width="50%" valign="top">
       <h3>💻 System Diagnostics</h3>
       
 ```python
-class HackerProfile:
+class SecurityResearcher:
     def __init__(self):
         self.name = "Aditi Tinker"
         self.alias = "Cyber-aditii"
-        self.role = "Cybersecurity Researcher"
-        self.origin = "Jaipur, India"
-        self.study = "BCA @ Maharani College"
-        self.focus = [
-            "Web Security", 
-            "Network Pentesting", 
-            "Recon Automation"
+        self.location = "Jaipur, India"
+        self.focus_areas = [
+            "Web Security / OWASP Top 10",
+            "Recon Automation & Scripting",
+            "WAF Bypass & Filter Evasion"
         ]
-        
-    def get_status(self):
-        return "Searching for vulnerabilities... 🔍"
+
+    def current_activity(self):
+        return "Developing tools & hunting bugs 🛡️"
 ```
     </td>
-    <td width="45%" valign="top">
-      <h3>📜 Background Check</h3>
+    <td width="50%" valign="top">
+      <h3>📜 Credentials & Background</h3>
       <ul>
         <li>🛡️ <b>Independent Bug Bounty Hunter</b> auditing web apps and discovering edge-case flaws.</li>
         <li>🎓 Pursuing <b>BCA</b> at Maharani College, Jaipur with a <b>SGPA of 7.4</b>.</li>
         <li>🎓 Completed a <b>6-Month Diploma in Ethical Hacking</b> from Samyak Coaching.</li>
-        <li>🚀 Creator of <a href="https://github.com/Cyber-aditii/aditi-portfolio">WRAITH XSS</a>, an automated vulnerability recon & filter evasion engine.</li>
+        <li>🚀 Certified via <b>NVIDIA Deep Learning Institute (DLI)</b>.</li>
       </ul>
     </td>
   </tr>
@@ -93,6 +104,19 @@ class HackerProfile:
 
 ---
 
+## 📂 Featured Projects
+
+### 🚀 [WraithXSS](https://github.com/Cyber-aditii/WraithXSS)
+An advanced automated XSS scanner and filter evasion framework. Designed to run system diagnostics, check target hosts, detect parameters, test bypass vectors, and automate payload delivery with high-performance reporting.
+- **Languages:** Python, Rich
+- **Key Features:** Colorized interactive interface, Custom Payloads, Bypass logic, Python 3.13 Ready.
+
+### 🌐 [aditi-portfolio](https://github.com/Cyber-aditii/aditi-portfolio)
+My personal interactive portfolio website demonstrating cybersecurity skills, projects, and certifications.
+- **Tech Stack:** React, Vite, Tailwind CSS, Vercel
+
+---
+
 ## 📈 Git Telemetry & Metrics
 
 <p align="center">
@@ -115,20 +139,6 @@ class HackerProfile:
 </picture>
 
 ---
-
-## 📬 Handshake & Contact
-
-<p>
-  <a href="https://linkedin.com/in/aditi-tinker-8a0854367" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5" alt="LinkedIn" />
-  </a>
-  <a href="mailto:adititinker88@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-purple?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://aditi-portfolio-gamma-eight.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio_Website-View-cyan?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
 
 <div align="center">
   <sub>© 2026 Aditi Tinker. All rights reserved. <br/> <b>System status: Active. Hack ethically.</b></sub>
